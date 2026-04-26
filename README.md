@@ -1,11 +1,14 @@
 # The-Split-Keyboard2.0
 Introduction
-This project is a custom split mechanical keyboard designed with integrated ESP32 control, USB‑C flashing/charging circuits, and a modular PCB layout. The goal is to create a portable, open‑source keyboard that balances usability, transportability, and customizability.
+This project is a custom split mechanical keyboard designed with USB‑C flashing/charging circuits, and a PCB layout. The goal is to create a portable, keyboard that is customizable
+Why did i make this project?
+- To make using keyboard more easier and comfortable
+- Split keyboard will allow me to sit however i want without ruining my posture
 Features:
 - ESP32 WROOM 32 mcu with ble firmware
 - Custom 3D printed case
-- Modular PCB
-- USB-C charging and flashing
+- Custom PCB
+- USB-c charging and flashing
 - TFT ST7735 display integration
 
 -PCB DESIGN

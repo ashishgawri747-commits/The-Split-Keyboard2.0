@@ -21,8 +21,8 @@ Features:
 -CASE for the PCB
 <img width="1253" height="613" alt="Screenshot 2026-04-14 053213" src="https://github.com/user-attachments/assets/d1d022a8-a0b8-4adc-878f-e57e8b0cbbc5" />
 
--BOM
-## Bill of Materials (Funding BOM)
+
+## Bill of Materials 
 
 | Component Name | Quantity | Price for one package(USD) | Package / Amazon Link |
 |----------------|----------|-------------|-----------------------|

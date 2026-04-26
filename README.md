@@ -11,7 +11,7 @@ Features:
 - Custom 3D printed case
 - Custom PCB
 - USB-c charging and flashing
-- TFT ST7735 display integration
+- TFT ST7735 display, to display current music playing, or battery remaining, or to do list.
 
 -PCB DESIGN
 <img width="1253" height="709" alt="Screenshot 2026-04-13 074614" src="https://github.com/user-attachments/assets/3386bd0d-3a7f-472d-8651-160f6a3a3ee2" />
